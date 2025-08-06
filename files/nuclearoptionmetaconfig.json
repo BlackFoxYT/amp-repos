@@ -1,0 +1,12 @@
+[
+    {
+        "ConfigFile": "BepInEx/BepInEx.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "BepInEx/MaxWasUnavailable.Nuclei.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    }
+]

@@ -1,16 +1,10 @@
 {
-  "RepositoryName": "Mein Eigenes AMP Repository",
-  "RepositoryAuthor": "Marcel",
-  "RepositoryURL": "http://downloads.rg-servers.de/index.php?path=AMP&download=manifest.json",
-  "RepositoryDescription": "Eigenes Repository mit Custom Gameservern.",
-  "ManifestVersion": 1,
-  "Instances": [
-    {
-      "FileName": "nuclear-option-nuclei.kvp",
-      "DisplayName": "Nuclear Option (Nuclei)",
-      "Description": "Server für Nuclear Option mit Nuclei Plugin",
-      "IconFile": "nuclear-option.png",
-      "Platforms": ["Windows", "Linux"]
-    }
-  ]
+    "id": "6019ef05-113e-4414-a005-988eb10db7b1",
+    "authors": [
+        "BlackFox - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/BlackFoxYT/amp-repos - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/BlackFoxYT/amp-repos - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "BlackFox - Made with AMP Config Generator"
 }

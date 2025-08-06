@@ -1,0 +1,9 @@
+[
+    {
+        "UpdateStageName": "Download Nuclei",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceArgs": "MaxWasUnavailable/Nuclei",
+        "UpdateSourceData": "MaxWasUnavailable.Nuclei.zip",
+        "UpdateSourcePlatform": "All"
+    }
+]
